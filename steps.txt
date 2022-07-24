@@ -40,4 +40,5 @@
 16. Added searchView.js and implement that !
 17. Added view.js and implement View class for Parent class and make another views file extends of View class ! (we set all of the global methods in View class and export default in definitly!)
 18. Implement results to view in code
-19. Implement handel error for results show with search 
+19. Implement handel error for results show with search
+20. Implement get results per page 

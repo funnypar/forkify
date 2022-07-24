@@ -1605,7 +1605,7 @@
 81/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/wcwidth/test1658179642582005619 1
 100/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/core-js/actual/instance/push.js1658179647558117019 0
 107/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/core-js/actual/instance/replace-all.js1658179647570117286 0
-71/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/src/js/model.js1658648987580587429 0
+71/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/src/js/model.js1658683745844243692 0
 98/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/core-js/actual/set-timeout.js1658179647578117467 0
 101/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/core-js/actual/weak-set/index.js1658179647474115135 0
 97/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/core-js/actual/math/log10.js1658179647522116211 0
@@ -4823,7 +4823,7 @@
 92/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/lodash/_deburrLetter.js1658179644498048465 0
 110/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/bl/node_modules/readable-stream/errors.js1658179643198019387 0
 87/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/lodash/isBuffer.js1658179645810077837 0
-60/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/dist1658654643191486508 1
+60/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/dist1658683746820282019 1
 112/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/jsdom/lib/jsdom/living/helpers/selectors.js1658179645334067178 0
 91/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/lodash/forEachRight.js1658179645558072195 0
 83/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/lodash/find.js1658179645438069507 0
@@ -4929,7 +4929,7 @@
 100/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/sass/types/util/promise_or.d.ts1658180224862234907 0
 84/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/sass/types/util1658180224862234907 1
 99/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/sass/types/value/function.d.ts1658180224822236436 0
-72/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/src/js/config.js1658557272208069435 0
+72/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/src/js/config.js1658683405611889624 0
 94/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/sass/types/value/map.d.ts1658180224862234907 0
 104/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/sass/types/value/argument_list.d.ts1658180224818236589 0
 97/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/core-js/stable/array/sort.js1658179647598117914 0
@@ -6625,7 +6625,7 @@
 77/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/inflight1658179642245998111 1
 91/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/available-typed-arrays1658179642578005530 1
 84/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/mime-db/db.json1658179642582005619 0
-78/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/dist/index.436439df.js1658654643175323539 0
+78/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/dist/index.436439df.js1658683746796281077 0
 93/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/ajv/lib/compile/async.js1658179643738031463 0
 89/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/lodash/_copyArray.js1658179644434047033 0
 84/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/jsbn/example.js1658179642293999183 0
@@ -6668,7 +6668,7 @@
 114/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/jsdom/lib/jsdom/living/nodes/SVGTests-impl.js1658179645818078018 0
 104/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/core-js/full/array/virtual/group.js1658179647450114596 0
 85/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/@babel/generator1658179646114084648 1
-76/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/src/js/controller.js1658653670715232179 0
+76/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/src/js/controller.js1658683660508489074 0
 132/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/@parcel/node-resolver-core/node_modules/fill-range/package.json1658179642201997128 0
 84/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/jsdom/README.md1658179643030015631 0
 100/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/core-js/actual/string/anchor.js1658179645658074434 0
@@ -11869,7 +11869,7 @@
 92/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/get-intrinsic/README.md1658179642638006870 0
 110/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/caniuse-lite/data/features/audiotracks.js1658179644746054015 0
 78/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/which/bin1658179642358000613 1
-82/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/dist/index.436439df.js.map1658654643191486508 0
+82/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/dist/index.436439df.js.map1658683746816281863 0
 106/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/readable-stream/lib/_stream_duplex.js1658179642249998200 0
 123/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/caniuse-lite/data/features/mediacapture-fromelement.js1658179646530093970 0
 106/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/caniuse-lite/data/features/fileapi.js1658179645810077837 0

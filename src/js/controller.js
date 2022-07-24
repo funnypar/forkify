@@ -41,7 +41,7 @@ const controlSearchRecipe = async function () {
     // handel serach
     await model.loadSearchRecipe(query);
     //render to view
-    resultsView.render(model.state.search.results);
+    resultsView.render(model.resultsShowPerPage(1));
   } catch (err) {
     console.error(err);
   }
