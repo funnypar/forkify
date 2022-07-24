@@ -467,6 +467,7 @@ var _stable = require("core-js/stable");
 var _runtime = require("regenerator-runtime/runtime");
 var _regeneratorRuntime = require("regenerator-runtime");
 //---------------------------------------------------------- Show recipe
+if (module.hot) module.hot.accept();
 const controlRecipe = async function() {
     try {
         // Getting id
@@ -16078,6 +16079,7 @@ var _iconsSvg = require("url:../../img/icons.svg");
 var _iconsSvgDefault = parcelHelpers.interopDefault(_iconsSvg);
 class View {
     render(data) {
+        if (!data || Array.isArray(data) && data.length === 0) return this.renderError();
         this._data = data;
         const markup = this._genaratorHtml();
         this.clear();
@@ -16132,11 +16134,12 @@ var _iconsSvg = require("url:../../img/icons.svg");
 var _iconsSvgDefault = parcelHelpers.interopDefault(_iconsSvg);
 class ResultsView extends _viewDefault.default {
     _parentElement = document.querySelector(".results");
+    _errorMessage = "Your query could not find ! Please try again ;)";
     _genaratorHtml() {
         return this._data.map(this._genaratorHtmlPreview).join("");
     }
     _genaratorHtmlPreview(result) {
-        return `\n    <li class="preview">\n      <a class="preview__link preview__link--active" href="#${result.id}">\n        <figure class="preview__fig">\n          <img src="${result.image}" alt="Test" />\n        </figure>\n        <div class="preview__data">\n          <h4 class="preview__title">${result.title}</h4>\n          <p class="preview__publisher">${result.publisher}</p>\n          <div class="preview__user-generated">\n            <svg>\n              <use href="${_iconsSvgDefault.default}#icon-user"></use>\n            </svg>\n          </div>\n        </div>\n      </a>\n    </li>\n    `;
+        return `\n    <li class="preview">\n      <a class="preview__link" href="#${result.id}">\n        <figure class="preview__fig">\n          <img src="${result.image}" alt="${result.title}" />\n        </figure>\n        <div class="preview__data">\n          <h4 class="preview__title">${result.title}</h4>\n          <p class="preview__publisher">${result.publisher}</p>\n        </div>\n      </a>\n    </li>\n    `;
     }
 }
 exports.default = new ResultsView();

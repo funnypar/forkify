@@ -9,6 +9,10 @@ import { async } from "regenerator-runtime";
 
 //---------------------------------------------------------- Show recipe
 
+if (module.hot) {
+  module.hot.accept();
+}
+
 const controlRecipe = async function () {
   try {
     // Getting id
