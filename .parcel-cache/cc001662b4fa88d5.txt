@@ -12044,7 +12044,7 @@
 99/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/@babel/core/lib/config/item.js1658179645742076315 0
 92/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/mimic-response/index.js1658180199891222191 0
 122/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/purgecss/node_modules/commander/lib/suggestSimilar.js1658179642938013574 0
-55/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify1658649361269595082 1
+55/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify1658654812174595278 1
 86/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/events/History.md1658179643378023412 0
 93/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/es-to-primitive/index.js1658179642722008747 0
 106/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/url/node_modules/punycode/punycode.js1658179662050443728 0
@@ -12242,7 +12242,7 @@
 91/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/repeat-string/index.js1658179642265998558 0
 112/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/caniuse-lite/data/features/link-icon-svg.js1658179646350089937 0
 119/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/caniuse-lite/data/features/high-resolution-time.js1658179646070083662 0
-65/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/steps.txt1658581297999323879 0
+65/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/steps.txt1658654812014545826 0
 103/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/sass/types/logger/source_span.d.ts1658180224882234142 0
 156/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/@babel/generator/node_modules/@jridgewell/gen-mapping/dist/types/sourcemap-segment.d.ts1658179663286471747 0
 87/home/mopano/Desktop/Js/Learn/Jonas/Learn/JONAS/forkify/node_modules/lodash/overArgs.js1658179646482092895 0
