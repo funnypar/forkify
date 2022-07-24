@@ -1,0 +1,42 @@
+1. npm init
+2. npm i parcel -D
+3. npm run start
+4. 
+   "start": "parcel index.html"
+   "build": "parcel build index.html"
+
+5. check the project by log somthing in console
+6. insert async functions: 
+   1. insert async function with try and catch 
+   2. if(!res.ok) throw new Error ...
+   3. and rename our data by this method: 
+           
+          let {recipe} = data.data;
+          recipe = {
+          id: recipe.id,
+          .
+          .
+          .
+          }
+
+7. add html to container and handle that
+8. handle icons path by import them in top of the file
+9. Added core-js and regenerator-runtime packages that help to really old browser can build our website application :
+          npm i core-js regenerator-runtime
+
+10. implement MVC structure : 
+    1. Create model.js next to controller.js
+    2. Create views folder in js folder
+    3. In views, creating recipeView10. implement MVC structure : 
+    1. Create model.js next to controller.js
+    2. Create views folder in js folder
+    3. In views, creating recipeView.js
+
+11. Implement recipeView structure and install fractional npm package
+12. Added config.js and helpers.js modules and implement some code in them
+13. Added timeout function in helpers and use Promise.race() for handle error
+14. Added Publisher-Subscriber handel event method.
+15. Implement error handeling in recipeView !
+16. Added searchView.js and implement that !
+17. Added view.js and implement View class for Parent class and make another views file extends of View class ! (we set all of the global methods in View class and export default in definitly!)
+18. Implement results to view in code
